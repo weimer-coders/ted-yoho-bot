@@ -1,5 +1,7 @@
 # Ted Yoho Bot
 
+Do you follow your congressmen and congresswomen on Twitter? Maybe you see them tweeting photos of them with other members of congress, but wouldn't you rather see how they vote at the capitol? Well, this Python script will do that for you, starting with Florida house member Ted Yoho.
+
 ## Acknowledgement
 
 * First, we would like to acknowledge Chris Amico and his [propublica-congress repo](https://github.com/eyeseast/propublica-congress). Without this repo, it would have been significantly more work, and for that we are eternally grateful.
